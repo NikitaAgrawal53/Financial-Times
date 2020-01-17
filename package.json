@@ -1,0 +1,18 @@
+{
+  "name": "financial-times",
+  "version": "1.0.0",
+  "description": "Assessment for FT",
+  "main": "request-multiple-urls.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nikita Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
